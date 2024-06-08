@@ -76,3 +76,10 @@ h1{
     place-items: center;
     margin-top:220px;
 }
+
+
+.box:hover{
+    /* opacity: 0.5; */
+    background-color: black;
+    cursor: pointer;;
+}
